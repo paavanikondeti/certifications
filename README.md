@@ -18,6 +18,7 @@ This repository contains my certifications related to Data Science, Artificial I
 
 * Deloitte Data Analytics Job Simulation
 *Data Analyst
+*PowerBI.pdf
 ---
 
 ### 🐍 Python & Programming
@@ -50,6 +51,7 @@ This repository contains my certifications related to Data Science, Artificial I
 * AIML_Internship.pdf
 * Deloitte_Data_Analytics.pdf
 * Data Analyst.pdf
+* PowerBI.pdf
 * Python_Programming.pdf
 * Python_Libraries.pdf
 * Statistics_Certificate.pdf
